@@ -25,9 +25,6 @@ Future Enhancements
 
 Contributing
 
-License
-
-
 # Project Overview -
 
 This project provides a virtual keyboard that supports typing letters, numbers, symbols, and basic commands through hand gestures. Leveraging computer vision, VirtualHandKeys identifies and interprets hand movements to simulate keystrokes, making it ideal for use cases where touchless control is preferred. The virtual keyboard interface includes various functionalities, from basic typing to more complex actions such as Shift, Caps Lock, symbol toggling, and more.
